@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MascotaZamudio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e9331367d4b26d0aeeaa57028aeb5f86f92eba6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dedccdec9c1b28f9459d92554e95e2fc0c44b44")]
 [assembly: System.Reflection.AssemblyProductAttribute("MascotaZamudio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MascotaZamudio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
